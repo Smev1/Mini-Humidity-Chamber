@@ -1,7 +1,7 @@
 
 # **Custom Humidity Chamber**
 For this project I am in the works of designing a humidity chamber for controlling the temperature of popcorn. 
-My goals for this is for it to be under 50 dollars and thttps://stackedit.io/app#o not look like a piece of crap.
+My goals for this is for it to be under 50 dollars and to not look like a piece of crap.
 ## Parts
 I will be using parts mostly from aliexpress with the exclusion of the container itself:
 - Sterilite 20 quart airtight container (could be any container)
